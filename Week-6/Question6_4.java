@@ -37,7 +37,7 @@ class Thread2 extends Thread{
 	}  
 }  
   
-public class Question64{  
+public class Question6_4{  
 	public static void main(String args[]){  
 		Execute obj = new Execute();//only one object  
 		Thread1 t1=new Thread1(obj);  

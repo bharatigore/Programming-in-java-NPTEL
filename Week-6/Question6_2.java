@@ -4,7 +4,7 @@
         } 
    }
 // Create main class Question62 with main() method and appropriate statements in it
-class Question62 {
+class Question6_2 {
 public static void main(String args[]){
  ThreadRun t = new ThreadRun ();
  Thread t1 = new Thread(t);

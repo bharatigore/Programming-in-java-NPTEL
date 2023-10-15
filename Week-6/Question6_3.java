@@ -15,7 +15,7 @@ class MyThread extends B {
 	}
 }	
 		// Main class Question is defined
-public class Question63 {
+public class Question6_3 {
      public static void main(String[] args) {
 		 // An object of MyThread class is created
          MyThread t = new MyThread();
