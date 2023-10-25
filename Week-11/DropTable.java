@@ -1,3 +1,4 @@
+//Complete the code segment to drop the table named ‘PLAYERS’.
 import java.sql.*;
 import java.lang.*;
 public class DropTable {

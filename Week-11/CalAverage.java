@@ -1,3 +1,4 @@
+//Complete the following program to calculate the average age of the players in the table ‘PLAYERS’.
 import java.sql.*;
 import java.lang.*;
 public class CalAverage {

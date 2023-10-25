@@ -1,3 +1,4 @@
+//Write the required code in order to update the following data in the table ‘PLAYERS’
 import java.sql.*;
 import java.lang.*;
 public class UpdateData {
